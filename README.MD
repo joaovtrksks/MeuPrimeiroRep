@@ -1,7 +1,7 @@
-![alternativa](https://i.pinimg.com/736x/0e/23/0b/0e230b20811713c9fa1ca00ac2c6d583.jpg)
+
 
 # Meu Perfil
-
+ ![alternativa](https://i.pinimg.com/736x/0e/23/0b/0e230b20811713c9fa1ca00ac2c6d583.jpg)
 ## João Vitor silva santos
 
 ### :technologist: Atualmente Estudo desenvolvimento de sistemas 
